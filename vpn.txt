@@ -24,4 +24,3 @@ vless://797bde01-870b-453c-a873-3ab6cd75a626@158.160.218.153:443?security=realit
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@95.163.211.119:443?security=reality&encryption=none&pbk=MNbAG72pXVO11PRzMRw7puKjDnmkig2mvEmdjow53Wc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnv-img.perekrestok.ru#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%232
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@95.163.211.125:443?security=reality&encryption=none&pbk=MNbAG72pXVO11PRzMRw7puKjDnmkig2mvEmdjow53Wc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnv-img.perekrestok.ru#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%234
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@95.163.211.125:443?security=reality&encryption=none&pbk=MNbAG72pXVO11PRzMRw7puKjDnmkig2mvEmdjow53Wc&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=cdnv-img.perekrestok.ru#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%233
-
